@@ -1,0 +1,1 @@
+Herkese merhaba, ilk stajımda yaptığım bu uygulama Java, Spring framework, Angular ve Oracle database kullanarak tarih, hata türü ve hatanın geldiği kurum bazlı exceptionları filtreleyen ve arayüzde gösteren mini bir java projesi içerir.
